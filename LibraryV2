@@ -35,7 +35,7 @@ library.theme = {
 	buttoncolor = Color3.fromRGB(49, 49, 49), 
 	buttoncolor2 = Color3.fromRGB(29, 29, 29), 
 	itemscolor = Color3.fromRGB(255, 255, 255), 
-	itemscolor2 = Color3.fromRGB(68, 109, 135)
+	itemscolor2 = Color3.fromRGB(255, 255, 255)
 }
 
 getgenv().Darky2222 = "BEST LOCK GUI"
